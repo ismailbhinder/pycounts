@@ -1,4 +1,4 @@
-# pycounts
+# pycounts_ismail
 
 Calculate word counts in a text file!
 
