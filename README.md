@@ -10,7 +10,7 @@ pip install pycounts_ismail
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycounts_ismail` can be used to count words in a text file and plot results
 as follows:
 
 ```python
@@ -32,12 +32,12 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Ismail (Husain) Bhinderwala. It is licensed under the terms
+`pycounts_ismail` was created by Ismail (Husain) Bhinderwala. It is licensed under the terms
 of the MIT license.
 
 ## Credits
 
-`pycounts` was created with 
+`pycounts_ismail` was created with 
 [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and 
 the `py-pkgs-cookiecutter` 
 [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
