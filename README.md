@@ -5,7 +5,7 @@ Calculate word counts in a text file!
 ## Installation
 
 ```bash
-pip install pycounts_ismail
+pip install -i https://test.pypi.org/simple/ pycounts_ismail
 ```
 
 ## Usage
