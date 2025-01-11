@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycounts_ismail"
 copyright = u"2025, Ismail (Husain) Bhinderwala"
 author = u"Ismail (Husain) Bhinderwala"
 
